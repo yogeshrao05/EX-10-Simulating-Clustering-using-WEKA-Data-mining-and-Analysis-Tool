@@ -1,4 +1,6 @@
 # EX 10: Simulating Clustering using WEKA Data mining and Analysis Tool
+
+## DATE:26/10/2023
  
 ## AIM:
 To perform a classification technique using WEKA tool
